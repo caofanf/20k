@@ -1,2 +1,1 @@
-# RabbitMQ
-rabbitMQ的学习
+# 天天向上之路
